@@ -6,9 +6,9 @@ services:
       context: ./backend
       dockerfile: Dockerfile
     ports:
-      - "8080:8080"
+      - "8091:8091"
     environment:
-      - OM_PORT=${OM_PORT:-8080}
+      - OM_PORT=${OM_PORT:-8091}
       - OM_MODE=${OM_MODE:-standard}
       - OM_METADATA_BACKEND=${OM_METADATA_BACKEND:-sqlite}
       - OM_DB_PATH=${OM_DB_PATH:-/data/openmemory.sqlite}
