@@ -356,6 +356,13 @@ make test
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/agonbina">
+                    <img src="https://avatars.githubusercontent.com/u/3496783?v=4" width="100;" alt="agonbina"/>
+                    <br />
+                    <sub><b>Agon Bina</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/recabasic">
                     <img src="https://avatars.githubusercontent.com/u/102372274?v=4" width="100;" alt="recabasic"/>
                     <br />
@@ -369,6 +376,8 @@ make test
                     <sub><b>DoKoB0512</b></sub>
                 </a>
             </td>
+		</tr>
+		<tr>
             <td align="center">
                 <a href="https://github.com/jasonkneen">
                     <img src="https://avatars.githubusercontent.com/u/502002?v=4" width="100;" alt="jasonkneen"/>
@@ -376,8 +385,6 @@ make test
                     <sub><b>Jason Kneen</b></sub>
                 </a>
             </td>
-		</tr>
-		<tr>
             <td align="center">
                 <a href="https://github.com/muhammad-fiaz">
                     <img src="https://avatars.githubusercontent.com/u/75434191?v=4" width="100;" alt="muhammad-fiaz"/>
@@ -413,6 +420,8 @@ make test
                     <sub><b>Joseph Goksu</b></sub>
                 </a>
             </td>
+		</tr>
+		<tr>
             <td align="center">
                 <a href="https://github.com/lwsinclair">
                     <img src="https://avatars.githubusercontent.com/u/2829939?v=4" width="100;" alt="lwsinclair"/>
